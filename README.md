@@ -2,7 +2,7 @@
 integrantes:
 Juan Yahir Duran Ruiz,
 Myriam Herrera Vazquez,
-Yuliza Ramirez Rodriguez
+Yuliza Ramirez Rodriguez,
 Jovany Molina Vieyra.
 
 
