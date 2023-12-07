@@ -1,0 +1,68 @@
+header{
+    background: url(../img/fondo1.png) ;
+    background-size: cover;
+    background-position:center top;
+    height: 600px;
+    
+    background-attachment: fixed; /*sccroll*/   
+}
+.img{
+    padding-left: 90px;
+}
+.acc{
+    padding-top: 4%;
+}
+.derechos{
+    margin: 1px; 
+    background: #9e9e9e;
+    padding: 1%;
+    border: 1.5px solid #000000;
+}
+.derechos div{
+    text-align: center;
+    color: white;
+}
+#AccercaDel{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.tituloAccerca{ 
+    text-align: center;
+    font-size: 3rem;
+
+}
+.tituloAccerca span{
+    color: rgb(255, 213, 25);
+}
+.carousel-inner img {
+    max-width: 70%; 
+    max-height: 70%; 
+  }
+.carousel {
+    padding-top: 2%;
+    max-width: 70%; 
+    margin: auto;
+}
+.TituloEvento{
+    text-align: center;
+    font-size: 3rem;
+}
+.TituloEvento span{
+    color: blue;
+}
+#cuadro a{
+    text-decoration: none;
+}
+.card-text{
+    color: #000000;
+}
+
+/*
+header h1{
+    text-align: center;
+    font-size: 35px;
+    color: #fff;
+    padding: 30px 0;
+}*/
+

@@ -1,0 +1,28 @@
+form {
+    border: 1px solid #ffffff;
+    padding: 50px;
+    display: inline-block;
+    border-radius: 10px;
+    background: white;
+}
+.form-group label {
+    font-family: 'Arial Black', sans-serif;
+    
+}
+
+/* Cambiar la fuente de los elementos input a Times New Roman */
+.form-control {
+    font-family: 'Times New Roman', serif;
+}
+
+body {
+    background-image: url('../img/earth-1617121_1920.jpg');
+    background-size: cover; /* Ajustar la imagen al tamaño de la ventana */
+    background-repeat: no-repeat; /* Evitar la repetición de la imagen */
+    color: rgb(0, 0, 0);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
